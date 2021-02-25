@@ -1,1 +1,1 @@
-# python_financ_challenge
+# python_finance_challenge
